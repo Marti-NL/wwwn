@@ -2,8 +2,8 @@ const categories = [
     {
         name: "Wetenschap",
         questions: [
-            { question: "What planet is known as the Red Planet?", options: ["Mars", "Earth", "Venus", "Jupiter"], answer: "Mars" },
-            { question: "What gas do plants absorb from the atmosphere?", options: ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"], answer: "Carbon Dioxide" },
+            { question: "What planet is known as the Red Planet?" },
+            { question: "What gas do plants absorb from the atmosphere?" },
             // Add more questions
         ]
     },
